@@ -33,7 +33,6 @@ This tutorial is designed to be hands-on, with detailed explanations, code examp
    - [Project: Simple Voting dApp](#project-simple-voting-dapp)
    - [Deploying to a Testnet](#deploying-to-a-testnet)
 7. [Resources and Further Reading](#resources-and-further-reading)
-8. [Conclusion](#conclusion)
 
 ---
 
